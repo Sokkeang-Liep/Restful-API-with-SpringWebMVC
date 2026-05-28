@@ -13,6 +13,7 @@ import lombok.Setter;
 public class Coffee {
     private Integer id;
     private String name;
+    private Double price;
     private String description;
 
 
